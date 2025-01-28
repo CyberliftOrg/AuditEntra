@@ -97,8 +97,8 @@ Pour toute question ou assistance technique, n'hésitez pas à contacter **Cyber
    - Les applications tierces avec des permissions critiques, identifiées par la valeur **`false`** dans la colonne `InternalApplication`.  
 
 3. **Recommandations d’analyse :**  
-   - Réévaluez les droits attribués aux applications identifiées.  
-   - Priorisez l’analyse des applications tierces (non internes).  
+   - Réévaluez les droits attribués aux applications identifiées
+   - Priorisez l’analyse des applications tierces (non internes) 
    - Diminuez les privilèges inutiles attribués aux applications si possible.  
 
 ## Limitations  
