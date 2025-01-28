@@ -107,6 +107,3 @@ Le script identifie uniquement **6 permissions critiques** parmi plus de **300 p
 Pour une analyse complète et une visibilité exhaustive, nous vous recommandons de contacter les auditeurs de **Cyberlift**.  
 **Contact :** [M365@cyberlift.fr](mailto:M365@cyberlift.fr).  
 
----
-
-Si vous souhaitez ajouter des sections spécifiques comme des exemples de sortie ou des explications supplémentaires, dites-le-moi ! 😊
