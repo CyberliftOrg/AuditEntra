@@ -43,7 +43,7 @@ Avant d’utiliser ce script, assurez-vous de répondre aux conditions suivantes
 
 1. Configurez un service principal avec les permissions nécessaires dans votre Microsoft Entra ID.  
 2. Collectez les informations requises (voir ci-dessus).  
-3. Téléchargez et exécutez le script PowerShell pour analyser votre tenant M365.  
+3. Téléchargez et exécutez le script PowerShell pour analyser votre tenant M365 (voir ci-dessous).  
 
 Pour toute question ou assistance technique, n'hésitez pas à contacter **Cyberlift** à [M365@cyberlift.fr](mailto:M365@cyberlift.fr). 
 
