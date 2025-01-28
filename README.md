@@ -12,6 +12,7 @@ Il est destiné à être utilisé par votre équipe en charge des identités Mic
 L'objectif principal est d'identifier les identités et applications critiques pouvant compromettre l'intégralité de votre tenant M365.  
 
 Pour un accompagnement complet et une visibilité exhaustive, contactez **Cyberlift** à l'adresse : [M365@cyberlift.fr](mailto:M365@cyberlift.fr).  
+Retrouvez notre fiche pratique AuditEntra à l'adresse suivante : [here](https://cyberlift.sharepoint.com/:p:/r/sites/CommunicationMarketing/_layouts/15/Doc.aspx?sourcedoc=%7B438FC6CB-A895-4BF1-AD13-635433F07B52%7D&file=Fiche%20pratique%20Cybershow.pptx&action=edit&mobileredirect=true).
 
 ## Objectifs  
 
