@@ -47,12 +47,6 @@ Avant d’utiliser ce script, assurez-vous de répondre aux conditions suivantes
 
 Pour toute question ou assistance technique, n'hésitez pas à contacter **Cyberlift** à [M365@cyberlift.fr](mailto:M365@cyberlift.fr). 
 
-# AuditEntra.ps1  
-
-## Description  
-
-**AuditEntra.ps1** est un script PowerShell permettant d’auditer les comptes de service (Service Principals) au sein de Microsoft Entra ID. Il identifie les rôles et permissions critiques pouvant représenter un risque pour votre environnement M365. Les résultats sont exportés dans un fichier CSV pour une analyse approfondie.  
-
 ## Installation des prérequis  
 
 1. **Créer un Service Principal dédié :**  
