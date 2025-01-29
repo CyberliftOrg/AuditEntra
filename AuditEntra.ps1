@@ -1,5 +1,5 @@
 # Clone le dépôt GitHub contenant le module BARK dans le répertoire courant
-git clone https://githubcom/BloodHoundAD/BARK
+git clone https://github.com/BloodHoundAD/BARK
 
 # Importation du script BARKps1 situé dans le répertoire courant
 $Path = Join-Path -Path (Get-Location) -ChildPath "BARK/BARK.ps1"
